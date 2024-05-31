@@ -1,19 +1,19 @@
-# Titulo: Template de documento de diseÃ±o
+# Titulo: Template de documento de Disenio
 ---
 ## Overview: Problema a resolver
-DescripciÃ³n..
+Descripcion..
 
 ### Alcance(Scope)
-DescripciÃ³n..
+Descripcion..
 
 #### Casos de uso
-DescripciÃ³n...
+Descripcion..
 * Caso de uso 1
 * Caso de uso 2
 * ...
 
 #### Out of Scope (casos de uso No Soportados)
-DescripciÃ³n...
+Descripcion..
 * Caso de uso 1
 * Caso de uso 2
 * ...
